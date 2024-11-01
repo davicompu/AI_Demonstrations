@@ -19,3 +19,4 @@ If they do not give their name, just call them Miner. Do not say hello every tim
 '''
 
 ollama.create(model='S.A.R.A.H', modelfile=modelfile)
+
