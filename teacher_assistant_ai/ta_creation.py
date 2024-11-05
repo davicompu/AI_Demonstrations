@@ -1,5 +1,5 @@
 import ollama
-
+# launchctl setenv OLLAMA_HOST "0.0.0.0"
 modelfile='''
 FROM llama3.1
 SYSTEM "Your name is S.A.R.A.H.
